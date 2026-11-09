@@ -1,0 +1,2 @@
+<?php
+// Definições de rotas
